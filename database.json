@@ -1,6 +1,11 @@
 {
   "6283170257037": {
-  "name": "syah",
-  "password": 1
- }
+    "name": "syah",
+    "password": 1
+  },
+  "6283845274711": {
+    "name": "syah",
+    "password": "1",
+    "registeredAt": "2025-08-21T14:21:30.132Z"
+  }
 }
